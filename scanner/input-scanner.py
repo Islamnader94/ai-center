@@ -8,6 +8,9 @@ import re
 import requests
 
 
+print("Press >d< on your keyboard to detect the text.")
+
+
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--image", required = True,
 	help = "Path to the image to be scanned")

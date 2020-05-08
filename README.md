@@ -93,3 +93,10 @@ cd scanner
 
 python3 camera-scanner.py
 ```
+
+### Screenshots for the project in action:
+
+![Screenshot](input-scanner.png)
+![Screenshot](database.png)
+![Screenshot](web-view-result.png)
+![Screenshot](camera-scanner-output.png)

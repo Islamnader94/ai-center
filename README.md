@@ -86,7 +86,7 @@ python3 input-scanner.py --i images/image1.jpg
 
 
 
-### To run the camera scanner, make sure the server is kept running, then use the bellow command followed by the arguments of the image path, *Note: camera scanner is not accurate, sometimes it showes results and sometimes it doesn't!:
+### To run the camera scanner, make sure the server is kept running, then use the bellow command, *Note: camera scanner is not accurate, sometimes it showes results and sometimes it doesn't!:
 
 ```
 cd scanner

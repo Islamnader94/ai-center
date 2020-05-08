@@ -96,7 +96,11 @@ python3 camera-scanner.py
 
 ### Screenshots for the project in action:
 
+1 - Input-scanner output if data exists:
 ![Screenshot](input-scanner.png)
+2 - Database:
 ![Screenshot](database.png)
+3 - Final web-view result:
 ![Screenshot](web-view-result.png)
+4 - Camera-scanner output:
 ![Screenshot](camera-scanner-output.png)
